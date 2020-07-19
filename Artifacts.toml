@@ -1,0 +1,113 @@
+[[DecFP]]
+arch = "aarch64"
+git-tree-sha1 = "aeb0f45af005e6f6787580979194a9f29a9e61aa"
+libc = "glibc"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "348ea1e929bb0d42a8fb3a7769d4b1b6c706a5e71b972cb92034e82c2a7495da"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.aarch64-linux-gnu.tar.gz"
+[[DecFP]]
+arch = "aarch64"
+git-tree-sha1 = "e2eb4018ed5fba1c476aa99866a5ebe39f74ed00"
+libc = "musl"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "3321740f7a13b6aef8116cd7665818751d5124c7d9226dd53f099c727dab17cb"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.aarch64-linux-musl.tar.gz"
+[[DecFP]]
+arch = "armv7l"
+git-tree-sha1 = "72ff0660b146715c2de29df427f062946272112d"
+libc = "glibc"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "558bf1eca27adbedbec7fc018650412aee42e0ce6d90930a914dac481d25179d"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.armv7l-linux-gnueabihf.tar.gz"
+[[DecFP]]
+arch = "armv7l"
+git-tree-sha1 = "8ad4a86e4e59cc3da1c75cb75be4292b2c73ed61"
+libc = "musl"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "00c703bd8fe37b565292a7fa6bf6a39f753f5acf92c2b148953763edc30d8f63"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.armv7l-linux-musleabihf.tar.gz"
+[[DecFP]]
+arch = "i686"
+git-tree-sha1 = "6d53593347b77f4914f9df7f8c07dd7e1140c833"
+libc = "glibc"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "d216b97c02e6c7e265a28b74b5fceff75b321857fefa17ad0a283da683a807c1"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.i686-linux-gnu.tar.gz"
+[[DecFP]]
+arch = "i686"
+git-tree-sha1 = "38f058808d7121f1553b0e61d93653aeb48c4796"
+libc = "musl"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "55260aaeeaef50e26ef64daffbe810d345fa3ffbc79c157e2cd63a071ae5d0c8"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.i686-linux-musl.tar.gz"
+[[DecFP]]
+arch = "i686"
+git-tree-sha1 = "2b23c152d883eeff4759fa8da2aa53632278c2f8"
+os = "windows"
+
+    [[DecFP.download]]
+    sha256 = "55b1c166b895ab7aed78d89798f1166f66dd6bd5eacf75c8abd71b649be5079f"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.i686-w64-mingw32.tar.gz"
+[[DecFP]]
+arch = "powerpc64le"
+git-tree-sha1 = "77a2c892b10888b854104cbfa51f0df9ab3f9277"
+libc = "glibc"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "6a5cacf1c21e525f6fa21bfa2fd47d0b8b83b4bff62e795647744671359e7a94"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.powerpc64le-linux-gnu.tar.gz"
+[[DecFP]]
+arch = "x86_64"
+git-tree-sha1 = "802d3a21228f4c203f0d0c211429a7937294c3eb"
+os = "macos"
+
+    [[DecFP.download]]
+    sha256 = "87994eb523eebce86fd5e3cad19919f7fcd55e44d767f15df181eceea4ddfbf8"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.x86_64-apple-darwin14.tar.gz"
+[[DecFP]]
+arch = "x86_64"
+git-tree-sha1 = "83d10eae35e423d7c4a95c179a59b37f2093c7a2"
+libc = "glibc"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "bc1d287394724c376fa840287b878147d64e305e868d71432256f731ca93b3de"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.x86_64-linux-gnu.tar.gz"
+[[DecFP]]
+arch = "x86_64"
+git-tree-sha1 = "9aec91efa027d0a4137c6437eb1f4dde841b30d9"
+libc = "musl"
+os = "linux"
+
+    [[DecFP.download]]
+    sha256 = "1102ec5a380d6538058fd9ec739c5a2296601da9426e1bd938e1c37075b37b07"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.x86_64-linux-musl.tar.gz"
+[[DecFP]]
+arch = "x86_64"
+git-tree-sha1 = "4c743dfede29184cedfdb933e9d7f1f86af8c15a"
+os = "freebsd"
+
+    [[DecFP.download]]
+    sha256 = "7f5ea36c42a880ab05e91c11c00f519d5d09e701382d0b2e985ff75954471f54"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[DecFP]]
+arch = "x86_64"
+git-tree-sha1 = "1220f3efe00edf58bb6f6374dfd4811851dd33e1"
+os = "windows"
+
+    [[DecFP.download]]
+    sha256 = "13d5b63a1ef15a41a5d0f3b39f67a3585b8d1b37c337a4d8ea6ce38299f657f8"
+    url = "https://github.com/jmkuhn/DecFP_jll.jl/releases/download/DecFP-v2.0.2+1/DecFP.v2.0.2.x86_64-w64-mingw32.tar.gz"
